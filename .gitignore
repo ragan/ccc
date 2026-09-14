@@ -1,0 +1,8 @@
+# Local overrides and secrets
+env
+env.local
+.env
+docker-compose.override.yml
+
+# OS
+.DS_Store
